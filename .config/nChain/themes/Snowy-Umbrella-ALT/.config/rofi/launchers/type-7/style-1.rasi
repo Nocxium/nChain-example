@@ -1,0 +1,21 @@
+/**
+ *
+ * Author : Aditya Shakya (adi1090x)
+ * Github : @adi1090x
+ * 
+ * Rofi Theme File
+ * Rofi Version: 1.7.3
+ **/
+
+/*****----- Global Properties -----*****/
+* {
+    font:                        "CaskaydiaCove NF 12";
+    background:                  #2a2835;
+    background-alt:              #000000;
+    foreground:                  #FFFFFF;
+    selected:                    #3a0605;
+    active:                      #6E77FF;
+    urgent:                      #8E3596;
+}
+
+@import "style-1-base.rasi"
